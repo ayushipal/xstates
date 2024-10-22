@@ -1,0 +1,17 @@
+/* src/components/LocationSelector.css */
+
+.location-selector {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+
+select {
+    margin: 10px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+p {
+    margin-top: 20px;
+    font-weight: bold;
+}
